@@ -1,4 +1,5 @@
 const QUOTEBANK = [
+       
 
     {
         quote:"Life is not about getting and having, is is about giving and being.",author:"Kevin Kruse"},
